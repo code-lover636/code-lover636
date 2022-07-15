@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @code-lover636
+- 👀 I’m interested in web dev and python programming 
+- 🌱 I’m currently learning web development.
