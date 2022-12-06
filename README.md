@@ -11,4 +11,7 @@ My greater achievements are yet to come. But I scored a centum for computer scie
 ![Coder636 (2) 198](https://user-images.githubusercontent.com/77882744/187399976-c17d3cb2-c99d-4a11-aa4b-3fcd447399f4.png)
 ![image](https://user-images.githubusercontent.com/77882744/183706542-297d971f-da96-4011-91f4-5893fdfecf76.png)
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=code-lover636&theme=highcontrast&show_icons=true&count_private=true)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=code-lover636&layout=compact)
 
