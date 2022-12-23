@@ -2,7 +2,7 @@
 
 
 ## 💫 About Me:
-Aravind Ashokan is an ambitious and curious programmer with 2 years of experience in web development. He is currently learning full-stack web development and is interested in building websites, web applications, and utilizing web scrapping and APIs. Aravind is dedicated to staying up to date with the latest technologies and best practices in the field, and is eager to continue learning and expanding his skills.
+I am an ambitious and curious programmer. I am currently learning full-stack web development and is interested in building websites, web applications, and utilizing web scrapping and APIs. I am dedicated to staying up to date with the latest technologies and best practices in the field, and is eager to continue learning and expanding his skills.
 
 
 ## 🌐 Socials:
