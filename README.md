@@ -2,7 +2,7 @@
 
 
 ## 💫 About Me:
-I am an ambitious and curious programmer. I am currently learning full-stack web development and is interested in building websites, web applications, and utilizing web scrapping and APIs. I am dedicated to staying up to date with the latest technologies and best practices in the field, and is eager to continue learning and expanding his skills.
+I am an ambitious and curious programmer. I am currently learning full-stack web development and am interested in building websites, web applications, and utilizing web scrapping and APIs. I am dedicated to staying up to date with the latest technologies and best practices in the field and am eager to continue learning and expanding my skills.
 
 
 ## 🌐 Socials:
