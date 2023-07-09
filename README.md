@@ -6,7 +6,7 @@
 <table>
 <tr>
 <th width="70%"> 
-I am an ambitious and curious programmer. I am currently learning full-stack web development and am interested in building websites and utilizing web scraping and APIs. I am dedicated to staying up-to-date with the latest technologies and best practices in the field and am eager to continue learning and expanding my skills.
+As a driven and inquisitive programmer, I am currently focused on learning machine learning. My passion lies in creating websites, web applications and exploring the potential of web scraping and APIs.I remain committed to keeping up with the latest technologies and industry best practices, and I am eager to expand my skill set through continued learning.
 </th>
 <th>
   <img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" 
