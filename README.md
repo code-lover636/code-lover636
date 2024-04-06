@@ -1,14 +1,25 @@
 ![image](https://github.com/code-lover636/code-lover636/assets/77882744/ad6c7915-a8b7-45fa-b1b5-82ef5175f9d0)
 
 
-## 💫 About Me:
-
-As a driven and inquisitive programmer, I am currently focused on learning machine learning. My passion lies in creating websites, web applications and exploring the potential of web scraping and APIs.I remain committed to keeping up with the latest technologies and industry best practices, and I am eager to expand my skill set through continued learning.
+## <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32"></picture> About Me:
+<table>
+  <tr>
+    <td valign="top">
+      <center>
+          As a driven and inquisitive programmer, I am currently focused on learning machine learning. My passion lies in creating websites, web applications and exploring the potential of web scraping and APIs.I remain committed to keeping up with the latest technologies and industry best practices, and I am eager to expand my skill set through continued learning.
+      </center>
+    </td>
+    <td valign="top">
+          <img align=top src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="10000em">
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/Coder636#9887) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_aravind_636) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aravind-ashokan-a26549243) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/aravindashokan636) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Coder636) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16648774) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AravindAshok636) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCy0k1g_m10fzb7adPafUsBg) 
 
-## 💻 Tech Stack:
+## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9be/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9be/512.gif" alt="🦾" width="32" height="32"> </picture> Tech Stack:
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
