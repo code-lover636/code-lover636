@@ -1,16 +1,23 @@
 ![image](https://github.com/code-lover636/code-lover636/assets/77882744/ad6c7915-a8b7-45fa-b1b5-82ef5175f9d0)
 
-
 ## <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32"></picture> About Me:
 <table>
   <tr>
     <td valign="top">
-      <center>
-          As a driven and inquisitive programmer, I am currently focused on learning machine learning. My passion lies in creating websites, web applications and exploring the potential of web scraping and APIs.I remain committed to keeping up with the latest technologies and industry best practices, and I am eager to expand my skill set through continued learning.
-      </center>
+  <div>
+    
+  ```js
+  var NAME = "Aravind Ashokan";
+  var EMAIL_ID = "aravindashokan636@gmail.com";
+  var EDUCATION = "Computer Science Engineering";
+  var LAST_WORKED = "UI/UX design intern at Madhyam Change Foundation";
+  var SKILLS ={"Programming", "Web Development", "UI/UX Design", "Machine Learning"};
+  ```
+  
+  </div>
     </td>
     <td valign="top">
-          <img align=top src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="10000em">
+          <img align=top src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="100000000">
     </td>
   </tr>
 </table>
