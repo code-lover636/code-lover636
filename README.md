@@ -6,7 +6,7 @@
   var NAME = "Aravind Ashokan";
   var EMAIL_ID = "aravindashokan636@gmail.com";
   var EDUCATION = "Computer Science Engineering";
-  var LAST_WORKED = "Freelance Developer and Designer at EthicVal";
+  var LAST_WORKED = "Freelance Developer and Designer at Krisko";
   var SKILLS ={"Programming", "Web Development", "UI/UX Design", "Machine Learning"};
   ```
 
